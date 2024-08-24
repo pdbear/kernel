@@ -18,6 +18,7 @@ on:
         options:
           - unifreq/linux-5.10.y-rk35xx
           - pdbear/linux-5.10.y-rk35xx
+          - pdbear/kernel-rk
           - codesnas/linux-5.10.y-rk35xx
           - armbian/linux-rockchip@rk-6.1-rkr3
       kernel_version:
